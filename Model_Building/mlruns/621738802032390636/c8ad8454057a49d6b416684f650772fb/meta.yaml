@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Subbu/OneDrive/Desktop/M.TechStuff/Sem2/2.DMML/Assignment/Assignment/Model_Building/mlruns/621738802032390636/c8ad8454057a49d6b416684f650772fb/artifacts
+end_time: 1741863671126
+entry_point_name: ''
+experiment_id: '621738802032390636'
+lifecycle_stage: active
+run_id: c8ad8454057a49d6b416684f650772fb
+run_name: Random Forest
+run_uuid: c8ad8454057a49d6b416684f650772fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741863649762
+status: 3
+tags: []
+user_id: Subbu

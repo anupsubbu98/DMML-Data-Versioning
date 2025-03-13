@@ -1,0 +1,15 @@
+metadata = """Version: v1.0
+Date: 2025-03-03
+Changes: Initial raw data and transformation versioning
+Commit Hash: [TO BE FILLED AFTER COMMIT]
+
+Version: v1.1
+Date: 2025-03-04
+Changes: Added new preprocessing steps in Data_Transformation
+Commit Hash: [TO BE FILLED AFTER COMMIT]
+"""
+
+# Save the metadata as a file
+with open("data_versioning_log.txt", "w") as file:
+    file.write(metadata)
+

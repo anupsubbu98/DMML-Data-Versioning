@@ -1,0 +1,9 @@
+digest: ced1ba26
+name: dataset
+profile: '{"features_shape": [1409, 35], "features_size": 49315, "features_nbytes":
+  394520}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 35]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Subbu", "mlflow.source.name": "C:\\Users\\Subbu\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Subbu/OneDrive/Desktop/M.TechStuff/Sem2/2.DMML/Assignment/Assignment/Model_Building/mlruns/621738802032390636/fa7a16ac05354ffab499c90f6b585bf0/artifacts
+end_time: 1741862317775
+entry_point_name: ''
+experiment_id: '621738802032390636'
+lifecycle_stage: active
+run_id: fa7a16ac05354ffab499c90f6b585bf0
+run_name: Logistic Regression
+run_uuid: fa7a16ac05354ffab499c90f6b585bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741862290675
+status: 3
+tags: []
+user_id: Subbu

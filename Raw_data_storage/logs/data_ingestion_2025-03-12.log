@@ -1,0 +1,10 @@
+2025-03-12 21:27:00,222 - INFO - Successfully loaded CSV data from customer_churn_data.csv
+2025-03-12 21:27:02,130 - INFO - pickle write telco-customer-churn
+2025-03-12 21:27:02,138 - INFO - Going to remove the following attributes: ['customerID']
+2025-03-12 21:27:02,142 - INFO - Successfully fetched dataset 42178 from OpenML
+2025-03-12 21:27:26,011 - INFO - Successfully loaded CSV data from customer_churn_data.csv
+2025-03-12 21:27:26,053 - INFO - pickle write telco-customer-churn
+2025-03-12 21:27:26,056 - INFO - Going to remove the following attributes: ['customerID']
+2025-03-12 21:27:26,058 - INFO - Successfully fetched dataset 42178 from OpenML
+2025-03-12 21:27:26,077 - INFO - Successfully saved raw data to Assignment/Raw_data_storage/raw_data/csv/csv_data_2025-03-12.csv
+2025-03-12 21:27:26,094 - INFO - Successfully saved raw data to Assignment/Raw_data_storage/raw_data/api/api_data_2025-03-12.csv
